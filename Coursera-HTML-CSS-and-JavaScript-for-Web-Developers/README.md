@@ -2,7 +2,7 @@
 
 This repository contains all of the source code used in the course called HTML, CSS and Javascript for Web Developers in Coursera.
 
-![Course Completion certificate](https://github.com/wirejp/wirejp.github.io/Coursera-HTML-CSS-and-JavaScript-for-Web-Developers/Certificate-NNAEGVDNH3J2-1.png)
+![Course Completion certificate](https://github.com/wirejp/wirejp.github.io/blob/master/Coursera-HTML-CSS-and-JavaScript-for-Web-Developers/Certificate-NNAEGVDNH3J2-1.png)
 
 # Assignments:
 
